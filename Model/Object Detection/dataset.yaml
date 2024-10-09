@@ -1,0 +1,14 @@
+
+train: /content/drive/MyDrive/YangBOT/Dataset/DatasetV2_67/train_test_val_original/train
+val: /content/drive/MyDrive/YangBOT/Dataset/DatasetV2_67/train_test_val_original/val
+test: /content/drive/MyDrive/YangBOT/Dataset/DatasetV2_67/train_test_val_original/test
+
+nc: 7
+names:
+- Healthy
+- LFNS
+- LFS
+- PM
+- CoryL
+- BES
+- CLS
