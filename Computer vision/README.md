@@ -10,14 +10,18 @@ The project is organized as follows:
 Computer Vision/
 │
 ├── FileManagement/
-│   └── (Tools for file management and handling)
+│   ├── check_move_duplicate.ipynb
+│   ├── copy_split.ipynb
+│   ├── count file in folder.ipynb
+│   ├── count_multi_instances.ipynb
+│   ├── forquicktest.ipynb
+│   └── rename.ipynb
 │
 ├── Models/
 │   ├── Classification/
 │   │   ├── Tool/
 │   │   │   ├── confusion_matrix.ipynb
 │   │   │   └── dataset_preparation
-│   │   │         
 │   │   └── Resnet-50.ipynb
 │   │     
 │   └── Object Detection/
