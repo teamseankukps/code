@@ -71,7 +71,7 @@ To set up and run the project, follow these steps:
 
 2. **Navigate to the project directory:**
    ```bash
-   cd computer-vision
+   cd computer vision
    ```
 
 
