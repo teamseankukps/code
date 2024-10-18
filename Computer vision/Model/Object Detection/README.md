@@ -62,7 +62,7 @@ Install YOLOv8 and its dependencies:
 2. **Train the model**:
    Define the dataset and start training the model:
    ```python
-   model.train(data='/content/drive/MyDrive/YangBOT/Dataset/dataset.yaml', epochs=50)
+   model.train(data='dataset.yaml', epochs=50)
    ```
 
    - **`data`**: Path to the `.yaml` file containing dataset paths and class names.
@@ -73,7 +73,7 @@ Install YOLOv8 and its dependencies:
 After training, you can validate the model using the validation dataset:
 
 ```python
-model.val(data='/content/drive/MyDrive/YangBOT/Dataset/dataset.yaml')
+model.val(data='dataset.yaml')
 ```
 
 This will output metrics like accuracy, mAP (mean Average Precision), and loss.
