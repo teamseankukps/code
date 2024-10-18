@@ -1,5 +1,5 @@
 
-# การเรียนรู้ถ่ายโอนด้วย ResNet-50 ใน PyTorch
+# Transfer Learning ด้วย ResNet-50 ใน PyTorch
 
 โค้ดนี้เป็นใช้การเรียนรู้ถ่ายโอน (Transfer Learning) ด้วยสถาปัตยกรรม ResNet-50 ใน PyTorch โดยจะแสดงวิธีการปรับแต่งโมเดล ResNet-50 ที่ได้รับการฝึกฝนมาแล้ว
 
